@@ -1,0 +1,17 @@
+Source: node-dijkstrajs
+Section: javascript
+Priority: optional
+Maintainer: s0600204 <dev@s0600204>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+ dh-sequence-nodejs,
+ nodejs
+Standards-Version: 4.6.2
+Homepage: https://github.com/tcort/dijkstrajs
+
+Package: node-dijkstrajs
+Architecture: all
+Depends:
+ ${misc:Depends}
+Description: A simple JavaScript implementation of Dijkstra's single-source shortest-paths algorithm.

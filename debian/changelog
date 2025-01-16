@@ -1,0 +1,5 @@
+node-dijkstrajs (1.0.3-1) UNRELEASED; urgency=medium
+
+  * Initial packaging.
+
+ -- s0600204 <dev@s0600204>  Fri, 17 Jan 2025 19:12:00 +0000
